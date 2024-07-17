@@ -1,6 +1,8 @@
 # Recipes Project
 
-[Project](https://www.theodinproject.com/lessons/foundations-recipes)
+[Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+
+[My solution](https://emesefedev.github.io/recipes/)
 
 ## Iteration 1: initial structure
 
