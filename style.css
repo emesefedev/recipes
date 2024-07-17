@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: "Tahoma", sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+}
+
+img {
+    border-radius: 10%;
+}
